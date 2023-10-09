@@ -51,14 +51,23 @@ function Contributors() {
       social2: "https://www.linkedin.com/in/kabir-shukla-396247233/",
       desc: "Aspiring Jim Halpert"
     },
+    {
+          id:2202901520091 ,
+          name: "Kirti Chauhan",
+          img: "https://github.com/Kirtichauhan17.png",
+          role: "Contributor",
+          social1: "",
+          social2: "",
+          desc: "just living life"
+        },
 
 // Use this template below
 
     // {
-    //     id: ,
-    //     name: "",
-    //     img: "",
-    //     role: "",
+    //     id:2202901520091 ,
+    //     name: "Kirti Chauhan",
+    //     img: "https://github.com/Kirtichauhan17.png",
+    //     role: "Contributor",
     //     social1: "",
     //     social2: "",
     //     desc: ""
